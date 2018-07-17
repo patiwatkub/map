@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">map</string>
+    <string name="open">Open navigation drawer</string>
+    <string name="close">Close navigation drawer</string>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="Choose_Language">Choose Language</string>
+    <string name="Show_map">Show map</string>
+    <string name="Add_toilet">Add toilet</string>
+    <string name="admin">Admin</string>
+
+    <string name="view_detail">View Details</string>
+    <string name="Request_edit_toilet">Request edit toilet</string>
+    <string name="Request_remove_toilet">Request remove toilet</string>
+    <string name="navigate">navigate</string>
+    <string name="Reviews">Reviews</string>
+    <string name="login">Login</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="Open_close">Open-close</string>
+</resources>

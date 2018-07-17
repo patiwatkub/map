@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/show_map"
+            android:icon="@drawable/ic_map_black_24dp"
+            android:title="@string/Show_map" />
+        <item
+            android:id="@+id/Choose_Language"
+            android:icon="@drawable/ic_g_translate_black_24dp"
+            android:title="@string/Choose_Language" />
+        <item
+            android:id="@+id/add_toilet"
+            android:icon="@drawable/ic_add_location_black_24dp"
+            android:title="@string/Add_toilet" />
+
+    </group>
+
+    <item android:title="@string/admin">
+        <menu>
+            <item
+                android:id="@+id/login"
+                android:icon="@drawable/ic_person_black_24dp"
+                android:title="@string/login" />
+
+        </menu>
+    </item>
+
+</menu>

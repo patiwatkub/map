@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">map</string>
+    <string name="open">Open navigation drawer</string>
+    <string name="close">Close navigation drawer</string>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="Choose_Language">เลือกภาษา</string>
+    <string name="Show_map">แสดงแผนที่</string>
+    <string name="Add_toilet">เพิ่มห้องน้ำ</string>
+    <string name="admin">ผู้ดูแลระบบ</string>
+    <string name="view_detail">แสดงรายลเอียดห้องสุขา</string>
+    <string name="Request_edit_toilet">ขอแก้ไขห้องสุขา</string>
+    <string name="Request_remove_toilet">ขอลบห้องสุขา</string>
+    <string name="navigate">นำทาง</string>
+    <string name="Reviews">รีวิว</string>
+    <string name="login">เข้าสู่ระบบ</string>
+
+    <string name="cancel">ยกเลิก</string>
+
+
+    <string name="Open_close">เวลาเปิด-ปิด</string>
+</resources>
